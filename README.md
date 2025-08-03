@@ -23,10 +23,15 @@ A feature-rich, secure, and customizable **Password Generator** built entirely w
 ## 📁 Project Structure
 
 PasswordGeneratorProject/
+
 ├── src/
+
 │ ├── PasswordGenerator.java
+
 │ └── PasswordGeneratorGUI.java
+
 ├── password_history.txt
+
 └── README.md
 
 
