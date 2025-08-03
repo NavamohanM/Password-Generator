@@ -42,6 +42,4 @@ javac PasswordGenerator.java PasswordGeneratorGUI.java
 **RUN**
 java PasswordGeneratorGUI
 
-**SCREENSHOT**
-![WhatsApp Image 2025-08-03 at 23 22 30](https://github.com/user-attachments/assets/dcf916a0-5861-44d4-b77d-059b29efb183)
 
