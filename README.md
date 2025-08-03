@@ -1,26 +1,26 @@
 # Password-Generator
-# 🔐 Java Password Generator
+# Java Password Generator
 
 A feature-rich, secure, and customizable **Password Generator** built entirely with Java Swing. The project includes a modern GUI interface and options to generate pronounceable, strong, and customizable passwords. Passwords are automatically saved to a history file for reference.
 
-## 🚀 Features
+## Features
 
-- ✅ Generate passwords with options:
+  - Generate passwords with options:
   - Uppercase, lowercase, digits, symbols
   - Exclude similar characters (e.g., `l`, `1`, `O`, `0`)
   - Pronounceable password mode
-- 💾 Auto-save password history to `password_history.txt`
-- 🔁 Password history stored silently (not shown in GUI)
-- 👁 Show/Hide password toggle
-- ✨ Modern UI with clear layout and emoji-enhanced interface
-- 📋 Copy to clipboard functionality
+- Auto-save password history to `password_history.txt`
+-  Password history stored silently (not shown in GUI)
+-  Show/Hide password toggle
+-  Modern UI with clear layout and emoji-enhanced interface
+-  Copy to clipboard functionality
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Java 17+
 - Swing (Java GUI Toolkit)
 
-## 📁 Project Structure
+##  Project Structure
 
 PasswordGeneratorProject/
 
@@ -35,12 +35,12 @@ PasswordGeneratorProject/
 └── README.md
 
 
-## 🖥️ How to Run
+## How to Run
 
-### 💡 Prerequisites:
+###  Prerequisites:
 - Java JDK installed and added to PATH.
 
-### 🔧 Compile:
+###  Compile:
 ```bash
 javac PasswordGenerator.java PasswordGeneratorGUI.java
 
